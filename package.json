@@ -1,5 +1,5 @@
 {
-  "name": "Ignite Feed",
+  "name": "ignite-feed",
   "author": "Rafael Pardim",
   "private": true,
   "version": "0.0.0",
@@ -10,6 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "date-fns": "^2.29.3",
+    "phosphor-react": "^1.4.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
